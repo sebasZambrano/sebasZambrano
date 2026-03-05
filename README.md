@@ -32,8 +32,6 @@ My goal is to build systems that are not only functional — but scalable, maint
 
 <br clear="right"/>
 
----
-
 ## 💻 Tech Stack
 
 <div align="center">
