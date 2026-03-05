@@ -34,6 +34,16 @@ My goal is to build systems that are not only functional — but scalable, maint
 
 ---
 
+## 💻 Tech Stack
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,laravel,ts,nodejs,npm,bootstrap,azure,docker,kubernetes,git,github,postman,postgres,mysql&perline=8" />
+  </a>
+</div>
+
+---
+
 ## 🧠 Architecture & Engineering
 
 <div align="center">
@@ -48,16 +58,6 @@ My goal is to build systems that are not only functional — but scalable, maint
 | Clean Architecture / DDD | 80% |
 | Azure & DevOps | 75 % |
 
-</div>
-
----
-
-## 💻 Tech Stack
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,laravel,ts,nodejs,npm,bootstrap,azure,docker,kubernetes,git,github,postman,postgres,mysql&perline=8" />
-  </a>
 </div>
 
 ---
