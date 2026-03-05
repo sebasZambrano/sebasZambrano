@@ -46,13 +46,13 @@ My goal is to build systems that are not only functional — but scalable, maint
 
 | Expertise | Level |
 |-----------|-------|
-| C# / .NET | ![90%] |
-| ASP.NET Core APIs | ![90%]|
-| Angular | ![85%] |
-| Entity Framework | ![85%] |
-| SQL & Database Design | ![85%] |
-| Clean Architecture / DDD | ![80%]|
-| Azure & DevOps | ![75%]|
+| C# / .NET | 90% |
+| ASP.NET Core APIs | 90% |
+| Angular | 85% |
+| Entity Framework | 85% |
+| SQL & Database Design | 85% |
+| Clean Architecture / DDD | 80% |
+| Azure & DevOps | 75 % |
 
 </div>
 
@@ -62,7 +62,7 @@ My goal is to build systems that are not only functional — but scalable, maint
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,ts,azure,github,postgres,mysql&perline=8" />
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,laravel,ts,nodejs,npm,bootstrap,azure,docker,github,postman,postgres,mysql&perline=8" />
   </a>
 </div>
 
@@ -122,6 +122,7 @@ I believe modern software must integrate **data intelligence + scalable architec
 |----------|------|
 | 💼 LinkedIn | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sebasti%C3%A1n-zambrano/) |
 | 📧 Email | [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:josepoza125@gmail.com) |
+| 📱 Whatsapp | [![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-green?style=flat&logo=whatsapp)](https://wa.me/573124888633) |
 
 </div>
 
