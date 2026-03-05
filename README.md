@@ -32,10 +32,6 @@ My goal is to build systems that are not only functional — but scalable, maint
 
 <br clear="right"/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sebasZambrano&theme=tokyonight&hide_border=true" height="170" />
-</div>
-
 ---
 
 ## 🧠 Architecture & Engineering
@@ -108,6 +104,12 @@ I believe modern software must integrate **data intelligence + scalable architec
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sebasZambrano&theme=tokyonight" width="100%" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sebasZambrano&theme=tokyonight&hide_border=true" height="170" />
 </div>
 
 ---
