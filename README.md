@@ -8,13 +8,13 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sebasti%C3%A1n-zambrano/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:josepoza125@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-green?style=flat&logo=whatsapp)](https://wa.me/573124888633)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sebasZambrano&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sebasZambrano&theme=tokyonight&hide_border=true" height="170" />
 </div>
 
@@ -46,13 +46,13 @@ My goal is to build systems that are not only functional — but scalable, maint
 
 | Expertise | Level |
 |-----------|-------|
-| C# / .NET | ![90%](https://progress-bar.dev/90/?width=200&color=0A66C2) |
-| ASP.NET Core APIs | ![90%](https://progress-bar.dev/90/?width=200&color=0A66C2) |
-| Angular | ![85%](https://progress-bar.dev/85/?width=200&color=0A66C2) |
-| Entity Framework | ![85%](https://progress-bar.dev/85/?width=200&color=0A66C2) |
-| SQL & Database Design | ![85%](https://progress-bar.dev/85/?width=200&color=0A66C2) |
-| Clean Architecture / DDD | ![80%](https://progress-bar.dev/80/?width=200&color=0A66C2) |
-| Azure & DevOps | ![75%](https://progress-bar.dev/75/?width=200&color=0A66C2) |
+| C# / .NET | ![90%] |
+| ASP.NET Core APIs | ![90%]|
+| Angular | ![85%] |
+| Entity Framework | ![85%] |
+| SQL & Database Design | ![85%] |
+| Clean Architecture / DDD | ![80%]|
+| Azure & DevOps | ![75%]|
 
 </div>
 
@@ -64,10 +64,6 @@ My goal is to build systems that are not only functional — but scalable, maint
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,ts,azure,github,postgres,mysql&perline=8" />
   </a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebasZambrano&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
