@@ -6,21 +6,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Senior+Full+Stack+Developer;C%23+%7C+.NET+Architect;Angular+Specialist;Clean+Architecture+%7C+DDD+%7C+SOLID;Cloud+%7C+DevOps+%7C+Data-Driven+Systems" alt="Typing SVG" />
 </a>
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/sebasti%C3%A1n-zambrano/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
-</a>
-
-<a href="mailto:josepoza125@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" />
-</a>
-
-<a href="https://wa.me/573124888633" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-Message-green?style=flat&logo=whatsapp" />
-</a>
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sebasti%C3%A1n-zambrano/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:josepoza125@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-green?style=flat&logo=whatsapp)](https://wa.me/573124888633)
 
 </div>
 
