@@ -106,28 +106,8 @@ I believe modern software must integrate **data intelligence + scalable architec
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sebasZambrano&theme=tokyonight" width="100%" />
 </div>
 
----
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sebasZambrano&theme=tokyonight&hide_border=true" height="170" />
 </div>
 
 ---
-
-## 📫 Connect With Me
-
-<div align="center">
-
-| Platform | Link |
-|----------|------|
-| 💼 LinkedIn | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sebasti%C3%A1n-zambrano/) |
-| 📧 Email | [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:josepoza125@gmail.com) |
-| 📱 Whatsapp | [![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-green?style=flat&logo=whatsapp)](https://wa.me/573124888633) |
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=100&section=footer" width="100%" />
-</div>
