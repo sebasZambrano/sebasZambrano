@@ -14,12 +14,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sebasZambrano&theme=tokyonight&hide_border=true" height="170" />
-</div>
-
----
-
 ## 👨‍💻 About Me
 
 <img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" />
@@ -37,6 +31,10 @@ My goal is to build systems that are not only functional — but scalable, maint
 - 🔁 Continuous improvement mindset  
 
 <br clear="right"/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sebasZambrano&theme=tokyonight&hide_border=true" height="170" />
+</div>
 
 ---
 
