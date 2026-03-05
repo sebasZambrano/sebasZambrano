@@ -62,7 +62,7 @@ My goal is to build systems that are not only functional — but scalable, maint
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,laravel,ts,nodejs,npm,bootstrap,azure,docker,github,postman,postgres,mysql&perline=8" />
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,laravel,ts,nodejs,npm,bootstrap,azure,docker,kubernetes,git,github,postman,postgres,mysql&perline=8" />
   </a>
 </div>
 
