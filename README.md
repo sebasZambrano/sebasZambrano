@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sebasti%C3%A1n-zambrano/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:josepoza125@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-green?style=flat&logo=whatsapp)](https://wa.me/573124888633)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-green?style=flat&logo=whatsapp)](https://wa.me/+573124888633)
 
 </div>
 
